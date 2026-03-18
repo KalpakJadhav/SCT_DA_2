@@ -23,4 +23,4 @@ Language: Python 3
 
 Libraries: Pandas, NumPy
 
-Tools: Jupyter Notebook / Google Colab, GitHub
+Tools: Jupyter Notebook & GitHub
