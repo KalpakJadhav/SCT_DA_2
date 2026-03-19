@@ -1,4 +1,4 @@
-🧹 Task 02: Data Cleaning and Preparation
+🫧 Task 02: Data Cleaning and Preparation
 
 📌 Project Overview
 
