@@ -1,8 +1,10 @@
 🧹 Task 02: Data Cleaning and Preparation
+
 📌 Project Overview
 
-This project focuses on the data cleaning and preparation phase of the data analysis lifecycle. 
+This project focuses on the data cleaning and preparation phase of the data analysis.
 Using a subset of the Global Superstore dataset, the goal was to ensure the data is accurate, consistent, and ready for further analysis or modeling.
+Developed as part of my Data Analyst Internship at SkillCraft Technology.
 
 
 🎯 Key Objectives
@@ -43,4 +45,5 @@ Prepared dataset for visualization and further data analysis tasks
 
 🚀 Outcome
 
-This project demonstrates the importance of data preprocessing in the analytics workflow. Clean and structured data ensures reliable insights and better decision-making in future analysis stages.
+This project demonstrates the importance of data preprocessing in the analytics workflow. 
+Clean and structured data ensures reliable insights and better decision-making in future analysis stages.
