@@ -1,26 +1,46 @@
-Task 02: Data Cleaning and Preparation
+🧹 Task 02: Data Cleaning and Preparation
+📌 Project Overview
 
-Project Overview
-This project focuses on the Data Cleaning and Preparation phase of the data analysis lifecycle. Using a subset of the Global Superstore dataset, I performed several critical preprocessing steps to ensure the data is accurate, consistent, and ready for exploratory analysis or machine learning.
+This project focuses on the data cleaning and preparation phase of the data analysis lifecycle. 
+Using a subset of the Global Superstore dataset, the goal was to ensure the data is accurate, consistent, and ready for further analysis or modeling.
 
-Key Tasks Completed
-Data Loading: Successfully imported the raw superstore.csv (51,290 rows) into a Python environment using the Pandas library.
 
-Missing Value Analysis: Performed a comprehensive scan for null values across 27 columns.
+🎯 Key Objectives
 
-Duplicate Removal: Verified data integrity by identifying and removing any redundant entries to prevent skewed analysis.
+Data Loading:
+Imported the dataset (superstore.csv) into a Python environment using Pandas.
 
-Type Conversion: * Converted Order.Date from String to Datetime format.
+Missing Value Analysis:
+Checked for null values across all columns to ensure data completeness.
 
-Converted Ship.Date from String to Datetime format.
+Duplicate Removal:
+Identified and removed duplicate records to maintain data integrity.
 
-Ensured numeric columns (Sales, Profit) were correctly cast for mathematical operations.
+Data Type Conversion:
 
-Data Export: Generated a clean version of the dataset titled Superstore_Cleaned_Data.csv.
+Converted Order Date and Ship Date to datetime format
 
-Technologies Used
+Ensured Sales and Profit columns were in numeric format
+
+Data Export:
+Saved the cleaned dataset as Superstore_Cleaned_Data.csv.
+
+🛠️ Technologies Used
+
 Language: Python 3
 
 Libraries: Pandas, NumPy
 
-Tools: Jupyter Notebook & GitHub
+Tools: Jupyter Notebook, GitHub
+
+💡 Key Outcomes
+
+Improved data quality by handling missing values and duplicates
+
+Standardized data formats for accurate analysis
+
+Prepared dataset for visualization and further data analysis tasks
+
+🚀 Outcome
+
+This project demonstrates the importance of data preprocessing in the analytics workflow. Clean and structured data ensures reliable insights and better decision-making in future analysis stages.
