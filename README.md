@@ -7,7 +7,7 @@ Using a subset of the Global Superstore dataset, the goal was to ensure the data
 Developed as part of my Data Analyst Internship at SkillCraft Technology.
 
 
-🎯 Key Objectives
+🎯 Key Objectives:-
 
 Data Loading:
 Imported the dataset (superstore.csv) into a Python environment using Pandas.
